@@ -3,4 +3,5 @@ def introduction(name)
 end
 
 def introduction(name,language)
-  
+  puts "Hi, my name is #{name} and i am learning #{language}."
+end
